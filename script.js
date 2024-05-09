@@ -9,7 +9,7 @@ const title = document.querySelector('#title')
 const cover = document.querySelector('#cover')
 
 // Song Titles
-const songs = ['Yoasobi - Racing Into The Night', 'Taeyeon - Circus', 'Pandora Hearts - Everytime You Kissed Me']
+const songs = ['Yiruma - River Flows In You', 'Taeyeon - Circus', 'Pandora Hearts - Everytime You Kissed Me']
 
 // Keep track of Songs
 let songIndex = 2
