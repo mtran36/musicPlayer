@@ -2,6 +2,8 @@
 
 Create a music player using HTML, CSS, and Javascript. Incorporate HTML 5 audio API.
 
+[Live Demo](https://mtran36.github.io/musicPlayer/)
+
 https://github.com/mtran36/musicPlayer/assets/59953738/ffbee8cf-d715-4f26-a635-c0b183d96af9
 
 Project Specification:
